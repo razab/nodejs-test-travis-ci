@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "directories": {
-    "test": "casperjs test tests/"
+    "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "casperjs test tests/"
   },
   "repository": {
     "type": "git",
