@@ -1,4 +1,5 @@
-build status should be here
+
+[![Build Status](https://github.com/razab/nodejs-test-travis-ci?branch=master)](https://github.com/razab/nodejs-test-travis-ci)
 
 Demo. Setting up casperjs && travis CI
 ## setting up:
