@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-test-travis-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razab/nodejs-test-travis-ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/razab/nodejs-test-travis-ci/issues"
+  },
+  "homepage": "https://github.com/razab/nodejs-test-travis-ci#readme"
+}
