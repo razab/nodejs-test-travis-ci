@@ -1,5 +1,5 @@
 
-[![Build Status](https://github.com/razab/nodejs-test-travis-ci?branch=master)](https://github.com/razab/nodejs-test-travis-ci)
+[![Build Status](https://travis-ci.org/razab/nodejs-test-travis-ci.svg?branch=master)](https://travis-ci.org/razab/nodejs-test-travis-ci)
 
 Demo. Setting up casperjs && travis CI
 ## setting up:
